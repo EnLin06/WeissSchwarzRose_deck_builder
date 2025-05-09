@@ -521,11 +521,6 @@ class CardViewer(QMainWindow):
         right_layout.addWidget(effect_edit)
         right_layout.addLayout(button_layout)
 
-        # ===== 提示訊息 (預設隱藏) =====
-        self.hint_label = QLabel("")
-        self.hint_label.setAlignment(Qt.AlignCenter)
-        self.hint_label.setStyleSheet("font-size: 24px; color: #FF6347;")
-        self.hint_label.setVisible(False)  # 預設隱藏
 
         # 將右側佈局加入主佈局
         main_layout.addLayout(right_layout)
