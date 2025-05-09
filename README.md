@@ -48,6 +48,7 @@
 - 牌組匯出為 PDF
 
 關於新系列 / 商品推出時如何更新卡表 : 
+
 對於有python、requests、bs4環境的使用者，請在和viewer_V2.py同一資料夾中執行 databuild.py，待程式執行完畢後再執行 download_img.py 爬取卡圖
 
 ## 版權聲明
