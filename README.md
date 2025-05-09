@@ -65,3 +65,13 @@
 如果您認為這些內容侵犯了您的版權，請聯絡 [jhihen@gmail.com]，我將馬上刪除任何親權內容。
 
 If you believe that this project infringes your copyright, please contact me immediately at [jhihen@gmail.com].
+
+## 實際畫面
+### 主界面
+![主頁面](assets/preview_1.png)
+
+### 卡片詳情視窗
+![卡片資訊](assets/cardpage.png)
+
+### 牌組預覽、匯出頁面
+![牌組預覽、匯出](assets/exportpage.png)
