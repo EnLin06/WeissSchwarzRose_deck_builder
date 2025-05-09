@@ -58,7 +58,7 @@
 無意侵犯任何版權或商標權，亦不對原版權方之產品構成替代或競爭。
 此外，還請多使用官方的DeckLog系統 (https://decklog-en.bushiroad.com/)
 
-- 卡片圖像來源：官方 Weiß Schwarz Rose卡片資源 (https://ws-rose.com/cardlist/)
+- 卡片圖像來源：官方 Weiß Schwarz Rose Card list (https://ws-rose.com/cardlist/)
 - 卡片數據資料來源：同上
 - 本專案中的所有圖片僅供學習與測試用途，不得用於商業用途。
 
