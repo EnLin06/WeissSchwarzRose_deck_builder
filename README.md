@@ -68,7 +68,7 @@ If you believe that this project infringes your copyright, please contact me imm
 
 ## 實際畫面
 ### 主界面
-![主頁面](assets/preview_1.png)
+![主頁面](assets/mainpage.png)
 
 ### 卡片詳情視窗
 ![卡片資訊](assets/cardpage.png)
