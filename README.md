@@ -62,7 +62,7 @@
 - 卡片數據資料來源：同上
 - 本專案中的所有圖片僅供學習與測試用途，不得用於商業用途。
 
-如果您認為這些內容侵犯了您的版權，請聯絡 [jhihen@gmail.com]，我將馬上刪除任何親權內容。
+如果您認為這些內容侵犯了您的版權，請聯絡 [jhihen@gmail.com]，我將馬上刪除任何侵權內容。
 
 If you believe that this project infringes your copyright, please contact me immediately at [jhihen@gmail.com].
 
