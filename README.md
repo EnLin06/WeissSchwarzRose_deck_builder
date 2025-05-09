@@ -17,12 +17,19 @@
 - 請下載 viewer_V2.py 、 deck_creater.py 、 databuild.py 、 download_img.py 四個檔案 和 json、image資料夾，其中， databuild.py 和 download_img.py 為抓取資料用的程式，並不影響主程式的運行
 - 請把image資料夾下的檔案解壓縮
 - 確保你的文件結構像這樣 :
+
   /WS-Card-Viewer/
+  
   ├── json/            # JSON 資料庫
+  
   ├── image/           # 卡片圖片
+  
   ├── viewer_V2.py
+  
   ├── deck_creater.py
+  
   ├── databuild.py
+  
   └── download_img.py
 
 
