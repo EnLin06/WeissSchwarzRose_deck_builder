@@ -77,5 +77,5 @@ If you believe that this project infringes your copyright, please contact me imm
 ![牌組預覽、匯出](assets/exportpage.png)
 
 ## 授權方式
-- 關於程式碼的部分，你想幹嘛就幹嘛 (WTFPL)
+- 關於程式碼的部分，你想幹嘛就幹嘛 (WTFPL) ，我甚至不知道自己在這種只有幾百行的小程式家這個幹嘛
 - 但請注意，我並沒有圖片、卡片資料的版權，這些檔案、資料並不在此授權的範疇
